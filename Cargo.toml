@@ -1,0 +1,7 @@
+[package]
+name = "Simulation"
+version = "1.0.0"
+authors = ["Pavel Pscheidl <pavel.junior@pscheidl.cz>"]
+
+[dependencies]
+rand = "*"
